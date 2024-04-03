@@ -1,5 +1,5 @@
 # Native Cards
-App developed as part of the Hybrid mobile applications course.
+App developed as part of the Hybrid mobile applications course. 03/04/2024
 
 [![react-native-android-build-apk](https://github.com/profjordanov/nativecards/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/profjordanov/nativecards/actions/workflows/build.yml)
 
